@@ -1,2 +1,2 @@
-# Python-Pandas-Coding-Examples
+# Jupyter-Notebooks-Coding-Examples
 Collection of the examples in Python language using Pandas
