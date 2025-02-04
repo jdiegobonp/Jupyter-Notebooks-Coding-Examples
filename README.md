@@ -18,7 +18,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com//jdiegobonp/R-Coding-Examples.git
+   git clone git@github.com:jdiegobonp/Jupyter-Notebooks-Coding-Examples.git
    ```
 
 2. Go to Jupyher and open the examples 
